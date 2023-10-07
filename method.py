@@ -11,4 +11,6 @@ class welcome:
 a = welcome("bao","16")
 a.hello()
 a.getage()
+
+print('hi')
        
